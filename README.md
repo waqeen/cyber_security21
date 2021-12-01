@@ -10,11 +10,11 @@ The sweep procedure was performed on **Centos 8** with the **latest** kernel ver
 Clone this repository:
 ```console
 [root@localhost]# sudo yum -y install git
-[root@localhost]# git clone 
+[root@localhost]# git clone https://github.com/frizzymonsta/cyber_security21.git
 ```
 Run script for installing Docker and Docker-compose.
 ```console
-[root@localhost]# cd 
+[root@localhost]# cd cyber_security21
 [root@localhost]# chmod +x docker.install.centos.redhat.sh
 [root@localhost]# ./docker.install.centos.redhat.sh
 ```
