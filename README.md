@@ -5,7 +5,7 @@ This repository contains a set of vulnerable Docker images for attacking the con
 
 Requirements
 ===
-The sweep procedure was performed on **Centos 8** with the **latest** kernel version and install necessary libraries.
+The sweep procedure was performed on **Centos 8** with the **latest** kernel version and with necessary libraries defined below.
 
 Clone this repository:
 ```console
