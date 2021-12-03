@@ -5,7 +5,7 @@ This repository contains a set of vulnerable Docker images for attacking the con
 
 Requirements
 ===
-The sweep procedure was performed on **Centos 8** with the **latest** kernel version and with necessary libraries defined below.
+The sweep procedure was performed on **Centos 8** with the **latest** kernel version (ou are free to choose your operating system) and with necessary libraries defined below.
 
 Clone this repository:
 ```console
@@ -89,6 +89,8 @@ Exploits
 
 Win condition
 ---
-Get unauthorized access to images described earlier and other containers in this repository (Kali, tomcat, portfolio website(redis and nginx, localhost:8080 by default).
+Get unauthorized access to images described earlier and suggest your solutions to gain access to the three remaining containers  (Kali, tomcat, portfolio website(redis and nginx, localhost:8080 by default). 
+
+The attacks of the form **"Escape from the container"** and **"Increase privileges"** are of the greatest interest.
 
 **Good luck!**
