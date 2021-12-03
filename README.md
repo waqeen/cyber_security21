@@ -93,4 +93,6 @@ Get unauthorized access to images described earlier and suggest your solutions t
 
 The attacks of the form **"Escape from the container"** and **"Increase privileges"** are of the greatest interest.
 
+Results are accepted through pull requests.
+
 **Good luck!**
