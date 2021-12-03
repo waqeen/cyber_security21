@@ -93,6 +93,8 @@ Get unauthorized access to images described earlier and suggest your solutions t
 
 The attacks of the form **"Escape from the container"** and **"Increase privileges"** are of the greatest interest.
 
-Results are accepted through pull requests.
+Results are accepted through pull requests, don`t forget to add instruction in README and record demo video.
+
+**Notice:** Pull requests opened on private repositories remain private.
 
 **Good luck!**
