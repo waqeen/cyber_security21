@@ -87,8 +87,8 @@ Exploits
 
 **To do**: Overwrite the host runc binary (and consequently obtain host root access) by leveraging the ability to execute a command as root within one of these types of containers: (1) a new container with an attacker-controlled image, or (2) an existing container, to which the attacker previously had write access, that can be attached with docker exec. This occurs because of file-descriptor mishandling, related to /proc/self/exe.
 
-Additional images
+Win condition
 ---
-Get unauthorized access to other images contains in this repository (Kali, tomcat, portfolio website(redis and nginx, localhost:8080 by default).
+Get unauthorized access to images described earlier and other containers in this repository (Kali, tomcat, portfolio website(redis and nginx, localhost:8080 by default).
 
 **Good luck!**
